@@ -1,1 +1,1 @@
-Simple Web Application
+This is a Simple Web Application
